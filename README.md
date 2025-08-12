@@ -20,45 +20,66 @@ A lo largo de mi carrera, he desarrollado una sólida base en:
 
 ## 🛠️ Tecnologías que Manejo
 
-Aquí tienes un vistazo a las herramientas y lenguajes con los que trabajo:
+Aquí tienes un vistazo a las herramientas y lenguajes con los que he trabajado:
 
 ### Lenguajes de Programación
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://github.com/topics/c)
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://github.com/topics/java)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/topics/python)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/topics/sql)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/topics/javascript)
 
 ### Frameworks y Librerías
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-0A86A3?style=for-the-badge&logo=seaborn&logoColor=white)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-0A86A3?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
 
 ### Bases de Datos
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+[![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/database/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 ### Herramientas de Inteligencia de Negocios y Otros
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Bizagi](https://img.shields.io/badge/Bizagi-00BCD4?style=for-the-badge&logo=bizagi&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0091DA?style=for-the-badge&logo=sap&logoColor=white)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white)](https://cloud.google.com/bigquery)
+[![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)](https://posit.co/products/open-source/rstudio/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarkEspinoza)
+[![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.microsoft.com/es-cl/microsoft-365)
+[![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/es-cl/microsoft-365/excel)
+[![Bizagi](https://img.shields.io/badge/Bizagi-00BCD4?style=for-the-badge&logo=bizagi&logoColor=white)](https://www.bizagi.com/)
+[![SAP](https://img.shields.io/badge/SAP-0091DA?style=for-the-badge&logo=sap&logoColor=white)](https://www.sap.com/index.html)
+
+---
+
+## 💼 Experiencia Profesional y Académica
+
+Aquí un resumen de mi trayectoria:
+
+### **Desarrollador Frontend (React)** | SuperVigilancia
+**Agosto 2021 – Marzo 2022 | San Pedro, Chile**
+* Responsable de la **creación desde cero de una página web con React**, incluyendo soporte continuo a sus requisitos y funcionalidades.
+* Desarrollo de funcionalidades clave para el dashboard: **conexión con la base de datos, creación de vistas de datos, modificación de datos y gestión de sesiones/usuarios.**
+
+### **Analista y Desarrollador de Software** | Universidad del Bío-Bío
+**Mayo 2017 – Agosto 2017 | Concepción, Chile**
+* Trabajo de **toma de requerimientos** en la empresa ORECAL (rubro de maestranza) para la generación de un modelo de flujo de datos.
+* **Validación y construcción de modelo de base de datos** para gestión de materiales, junto con el **desarrollo de la aplicación asociada.**
+
+### **Asistente de Investigación** | Universidad del Bío-Bío
+**Septiembre 2017 – Enero 2018 | Concepción, Chile**
+* Asistente del Dr. Claudio Gutiérrez en un proyecto de investigación.
+* Enfoque en la **adaptación de algoritmos de búsqueda de patrones en bases de datos espacio-temporales.**
+* **Análisis y modificación de algoritmos** para mejorar su rendimiento y aplicabilidad.
 
 ---
 
 ## 📊 Mi Portafolio de Proyectos
 
-Estoy orgulloso de proyectos donde he aplicado mis habilidades en:
+Los proyectos en mi formación como analista de datos demuestran mi capacidad para transformar datos en insights accionables:
 
 * **Análisis de Ventas:** Identificación de tendencias y optimización de estrategias comerciales.
 * **Salud Pública:** Modelos para comprender y abordar desafíos de salud.
@@ -68,8 +89,17 @@ En estos proyectos, mi trabajo abarcó desde la **limpieza y análisis explorato
 
 ---
 
+## 🎓 Certificaciones
+
+* **Análisis de Datos de Google** (2024)
+
+---
+
 ## ✉️ Contacto
 
 ¡Me encantaría conectar! No dudes en contactarme a través de:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-perfil-linkedin) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu.email@example.com) ---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-espinoza-mora-5b72ba194)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maespinm@gmail.com)
+
+---
