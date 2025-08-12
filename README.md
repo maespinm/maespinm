@@ -77,9 +77,9 @@ Aquí un resumen de mi trayectoria:
 
 ---
 
-## 📊 Mi Portafolio de Proyectos
+## 📊 Análisis de Datos
 
-Los proyectos en mi formación como analista de datos demuestran mi capacidad para transformar datos en insights accionables:
+Algunos proyectos con los que he trabajado como analista de datos:
 
 * **Análisis de Ventas:** Identificación de tendencias y optimización de estrategias comerciales.
 * **Salud Pública:** Modelos para comprender y abordar desafíos de salud.
