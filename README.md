@@ -2,7 +2,7 @@
 
 ### Ingeniero Civil en Informática | Transformando datos en valor estratégico
 
-Soy un Ingeniero Civil en Informática y Licenciado en Informática con una profunda pasión por **convertir datos y tecnología en soluciones efectivas para la toma de decisiones**. Mi enfoque principal es el desarrollo de software robusto y el análisis de datos para generar insights estratégicos.
+Soy un Ingeniero Civil en Informática y Licenciado en Informática con una profunda pasión por **convertir datos y tecnología en soluciones efectivas para la toma de decisiones**. Mi enfoque principal es el desarrollo de software y el análisis de datos para generar insights estratégicos.
 
 ---
 
