@@ -55,40 +55,6 @@ Aquí tienes un vistazo a las herramientas y lenguajes con los que he trabajado:
 
 ---
 
-## 💼 Experiencia Profesional y Académica
-
-Aquí un resumen de mi trayectoria:
-
-### **Desarrollador Frontend (React)** | SuperVigilancia
-**Agosto 2021 – Marzo 2022 | San Pedro, Chile**
-* Responsable de la **creación desde cero de una página web con React**, incluyendo soporte continuo a sus requisitos y funcionalidades.
-* Desarrollo de funcionalidades clave para el dashboard: **conexión con la base de datos, creación de vistas de datos, modificación de datos y gestión de sesiones/usuarios.**
-
-### **Analista y Desarrollador de Software** | Universidad del Bío-Bío
-**Mayo 2017 – Agosto 2017 | Concepción, Chile**
-* Trabajo de **toma de requerimientos** en la empresa ORECAL (rubro de maestranza) para la generación de un modelo de flujo de datos.
-* **Validación y construcción de modelo de base de datos** para gestión de materiales, junto con el **desarrollo de la aplicación asociada.**
-
-### **Asistente de Investigación** | Universidad del Bío-Bío
-**Septiembre 2017 – Enero 2018 | Concepción, Chile**
-* Asistente del Dr. Claudio Gutiérrez en un proyecto de investigación.
-* Enfoque en la **adaptación de algoritmos de búsqueda de patrones en bases de datos espacio-temporales.**
-* **Análisis y modificación de algoritmos** para mejorar su rendimiento y aplicabilidad.
-
----
-
-## 📊 Análisis de Datos
-
-Algunos proyectos con los que he trabajado como analista de datos:
-
-* **Análisis de Ventas:** Identificación de tendencias y optimización de estrategias comerciales.
-* **Salud Pública:** Modelos para comprender y abordar desafíos de salud.
-* **Predicción de Precios de Viviendas:** Desarrollo de modelos predictivos usando técnicas de machine learning.
-
-En estos proyectos, mi trabajo abarcó desde la **limpieza y análisis exploratorio de datos** hasta el **modelado estadístico avanzado** y la **visualización interactiva** para comunicar resultados clave.
-
----
-
 ## 🎓 Certificaciones
 
 * **Análisis de Datos de Google** (2024)
